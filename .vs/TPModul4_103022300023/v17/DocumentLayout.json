@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\TPKpl\\TPModul4_103022300023\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9DDF3F66-22D9-44BA-8847-3FC4C66479E1}|TPModul4_103022300023\\TPModul4_103022300023.csproj|D:\\TPKpl\\TPModul4_103022300023\\tpmodul4_103022300023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF3F66-22D9-44BA-8847-3FC4C66479E1}|TPModul4_103022300023\\TPModul4_103022300023.csproj|solutionrelative:tpmodul4_103022300023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DDF3F66-22D9-44BA-8847-3FC4C66479E1}|TPModul4_103022300023\\TPModul4_103022300023.csproj|d:\\tpkpl\\tpmodul4_103022300023\\tpmodul4_103022300023\\doormachineprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF3F66-22D9-44BA-8847-3FC4C66479E1}|TPModul4_103022300023\\TPModul4_103022300023.csproj|solutionrelative:tpmodul4_103022300023\\doormachineprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9DDF3F66-22D9-44BA-8847-3FC4C66479E1}|TPModul4_103022300023\\TPModul4_103022300023.csproj|d:\\tpkpl\\tpmodul4_103022300023\\tpmodul4_103022300023\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DDF3F66-22D9-44BA-8847-3FC4C66479E1}|TPModul4_103022300023\\TPModul4_103022300023.csproj|solutionrelative:tpmodul4_103022300023\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DDF3F66-22D9-44BA-8847-3FC4C66479E1}|TPModul4_103022300023\\TPModul4_103022300023.csproj|d:\\tpkpl\\tpmodul4_103022300023\\tpmodul4_103022300023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DDF3F66-22D9-44BA-8847-3FC4C66479E1}|TPModul4_103022300023\\TPModul4_103022300023.csproj|solutionrelative:tpmodul4_103022300023\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DDF3F66-22D9-44BA-8847-3FC4C66479E1}|TPModul4_103022300023\\TPModul4_103022300023.csproj|d:\\tpkpl\\tpmodul4_103022300023\\tpmodul4_103022300023\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DDF3F66-22D9-44BA-8847-3FC4C66479E1}|TPModul4_103022300023\\TPModul4_103022300023.csproj|solutionrelative:tpmodul4_103022300023\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +34,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "DoorMachineProgram.cs",
+              "DocumentMoniker": "D:\\TPKpl\\TPModul4_103022300023\\TPModul4_103022300023\\DoorMachineProgram.cs",
+              "RelativeDocumentMoniker": "TPModul4_103022300023\\DoorMachineProgram.cs",
+              "ToolTip": "D:\\TPKpl\\TPModul4_103022300023\\TPModul4_103022300023\\DoorMachineProgram.cs",
+              "RelativeToolTip": "TPModul4_103022300023\\DoorMachineProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:49:53.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "D:\\TPKpl\\TPModul4_103022300023\\TPModul4_103022300023\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "TPModul4_103022300023\\DoorMachine.cs",
+              "ToolTip": "D:\\TPKpl\\TPModul4_103022300023\\TPModul4_103022300023\\DoorMachine.cs",
+              "RelativeToolTip": "TPModul4_103022300023\\DoorMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T06:47:07.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "KodePos.cs",
               "DocumentMoniker": "D:\\TPKpl\\TPModul4_103022300023\\TPModul4_103022300023\\KodePos.cs",
               "RelativeDocumentMoniker": "TPModul4_103022300023\\KodePos.cs",
@@ -39,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TPKpl\\TPModul4_103022300023\\TPModul4_103022300023\\Program.cs",
               "RelativeDocumentMoniker": "TPModul4_103022300023\\Program.cs",
               "ToolTip": "D:\\TPKpl\\TPModul4_103022300023\\TPModul4_103022300023\\Program.cs",
               "RelativeToolTip": "TPModul4_103022300023\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T06:11:35.06Z",
               "EditorCaption": ""
