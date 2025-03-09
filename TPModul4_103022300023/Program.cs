@@ -1,15 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using TPModul4_103022300023;
 
-namespace TPModul4_103022300023
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-        }
+        Console.Write("Kelurahan: ");
+        string kelurahan = Console.ReadLine();
+
+        string kodePos = KodePos.GetKodePos(kelurahan);
+        Console.WriteLine($"Kode pos: {kodePos}");
     }
 }
